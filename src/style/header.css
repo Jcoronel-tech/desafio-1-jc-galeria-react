@@ -1,0 +1,10 @@
+.banner {
+    background-image: url("../images/banner.jpg");
+    height: 250px;
+    margin-bottom: 3rem;
+}
+.text-title {
+    text-align: center;
+    font-size: 45px;
+    line-height: 95px;
+}
